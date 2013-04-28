@@ -1,0 +1,21 @@
+{
+  "name": "fakequery",
+  "version": "0.0.1",
+  "description": "Fake jQuery...",
+  "main": "fakequery.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tgriesser/fakequery"
+  },
+  "keywords": [
+    "jquery",
+    "fake",
+    "jquery",
+    "$"
+  ],
+  "author": "Tim Griesser",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
+}
